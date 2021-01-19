@@ -1,0 +1,6 @@
+[submodule "rfid-android-nfc-reader"]
+	path = rfid-android-nfc-reader
+	url = https://github.com/agrawald/rfid-android-nfc-reader
+[submodule "rfid-web-locator"]
+	path = rfid-web-locator
+	url = https://github.com/agrawald/rfid-web-locator
